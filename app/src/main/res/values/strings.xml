@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pocket T&amp;N</string>
+    <string name="home">Home</string>
+    <string name="workout">Workouts</string>
+    <string name="meals">Meals</string>
+    <string name="profile">Settings</string>
+    <string name="navigation_drawer_open">OPEN</string>
+    <string name="navigation_drawer_close">CLOSE</string>
+    <string name="exit">exit</string>
+    <string name="title">Title</string>
+    <string name="_52">519\n kcal left</string>
+    <string name="_01_30_nworkout_left">01:30\nworkout left</string>
+    <string name="todays_meals">Today\'s Meals</string>
+    <string name="todaysworkout">Today\'s Workout</string>
+    <string name="upperbody">Upper Body</string>
+    <string name="choose_day">Select Day</string>
+    <string name="choose_workout">Select Workout</string>
+    <string name="choosereps">Select No Of Reps</string>
+    <string name="chosetime">Select Time</string>
+    <string name="calories">Enter Calories</string>
+    <string name="example_150">Example: 150</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="save">Save</string>
+    <string name="set_calories_goal"><u>Set Calories Goal</u></string>
+    <string name="example_2000">Example: 2000</string>
+    <string name="monday_s_workotu">Monday\'s Workout</string>
+</resources>
